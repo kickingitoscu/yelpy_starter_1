@@ -6,7 +6,5 @@ target 'Yelpy' do
   use_frameworks!
 
   # Pods for Yelpy
-  pod 'Alamofire'
-  pod 'AlamofireImage' 
-
+  pod 'AlamofireImage'
 end

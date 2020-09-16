@@ -9,6 +9,7 @@
 import UIKit
 import AlamofireImage
 
+
 class RestaurantsViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
     
     // ––––– TODO: Add storyboard Items (i.e. tableView + Cell + configurations for Cell + cell outlets)
